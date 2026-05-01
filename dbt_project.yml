@@ -1,0 +1,6 @@
+name: CIS_4400_Group_8_ETL_Programming
+version: '1.0.0'
+profile: BigQueryCIS4400
+models:
+  CIS_4400_Group_8_ETL_Programming:
+    +materialized: table
